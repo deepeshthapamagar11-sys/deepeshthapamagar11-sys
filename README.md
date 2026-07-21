@@ -190,8 +190,6 @@ Static & Dynamic malware analysis documentation.
 
 # 🌍 Connect With Me
 
-# 🌍 Connect With Me
-
 <p align="center">
 
 <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
