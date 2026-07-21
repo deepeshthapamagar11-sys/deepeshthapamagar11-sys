@@ -15,7 +15,7 @@
 ## 🚀 About Me
 
 ```yaml
-Name: Your Name
+Name: Deepesh Thapa Magar
 Role: Cybersecurity Analyst
 Focus:
   - Threat Detection
