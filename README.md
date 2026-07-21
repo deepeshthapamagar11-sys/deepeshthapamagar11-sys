@@ -31,6 +31,8 @@ Languages:
   - Java
   - Python
   - SQL
+  - Bash
+  - Powershell
 
 Always Learning:
   - Cloud Security
