@@ -190,14 +190,24 @@ Static & Dynamic malware analysis documentation.
 
 # 🌍 Connect With Me
 
+# 🌍 Connect With Me
+
 <p align="center">
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
-<a href="https://twitter.com/YOUR_USERNAME">
+<a href="https://twitter.com/YOUR_USERNAME" target="_blank">
 <img src="https://skillicons.dev/icons?i=twitter" />
+</a>
+
+<a href="https://facebook.com/YOUR_FACEBOOK_USERNAME" target="_blank">
+<img src="https://skillicons.dev/icons?i=facebook" />
+</a>
+
+<a href="https://instagram.com/YOUR_INSTAGRAM_USERNAME" target="_blank">
+<img src="https://skillicons.dev/icons?i=instagram" />
 </a>
 
 <a href="mailto:YOUR_EMAIL">
@@ -205,6 +215,7 @@ Static & Dynamic malware analysis documentation.
 </a>
 
 </p>
+
 
 ---
 
